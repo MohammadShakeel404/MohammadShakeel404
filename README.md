@@ -77,7 +77,7 @@ Whether you’re a tech explorer 🚀 or a customer success navigator 🌌, I’
   <a href="mailto:your-shakeel.mohammad.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="hhttps://www.linkedin.com/in/mohammad-shakeel/">
+  <a href="https://www.linkedin.com/in/mohammad-shakeel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="tel:+917470712404">
