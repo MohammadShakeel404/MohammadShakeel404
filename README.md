@@ -60,10 +60,10 @@ To navigate the digital cosmos, I rely on a trusty arsenal:
 
 ## 🌟 Cosmic Contributions
 
-✅ Led the development & launch of a social media application
-✅ Managed cross-functional teams (Dev, UI/UX, Marketing) for product success
-✅ Designed AI-driven workflows that boost efficiency and decision-making
-✅ Currently building Knowhere SaaS – an all-in-one, AI-powered brand growth platform
+- ✅ Led the development & launch of a social media application
+- ✅ Managed cross-functional teams (Dev, UI/UX, Marketing) for product success
+- ✅ Designed AI-driven workflows that boost efficiency and decision-making
+- ✅ Currently building Knowhere SaaS – an all-in-one, AI-powered brand growth platform
 
 
 ## 🌍 Planetary Collaborations
